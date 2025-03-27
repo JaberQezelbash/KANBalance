@@ -6,7 +6,7 @@
 This repository contains the KANBalance framework, as presented in the paper:
 
 > **KANBalance: Kolmogorov-Arnold Network Mitigates Class Imbalance**  
-> *by Jaber Qezelbash-Chamak*.  
+> *by Qezelbash-Chamak et al.*  
 > [[Paper Link]](https://github.com/JaberQezelbash/KANBalance)
 
 ---
