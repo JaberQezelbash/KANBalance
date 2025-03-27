@@ -123,7 +123,7 @@ pyyaml
 
 ## Citation
 
-If you use DEQ-KAN in your work, please cite this paper as follows:
+If you use KANBalance in your work, please cite this paper as follows:
 
 ```bibtex
 @article{qezelbash2025KANBalance,
@@ -143,5 +143,4 @@ For any questions related to KANBalance, please contact:
 ## Author's Note
 I appreciate your interest in KANBalance. 
 This framework is motivated by the urgent need for more adaptive and minority-focused solutions in medical imaging and other highly imbalanced domains.
-Combining KAN’s fine-grained spline-based representation with Focal Loss has shown promising results in challenging real-world scenarios.
 Feedback and collaboration inquiries are welcome!
