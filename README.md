@@ -1,7 +1,7 @@
 # KANBalance
 ## Kolmogorov-Arnold Network Mitigates Class Imbalance
 
-<img width="800" alt="kanbalance_figure" src="https://github.com/JaberQezelbash/KANBalance/blob/main/assets/KANBalance.svg">
+<img width="800" alt="kanbalance_figure" src="https://github.com/JaberQezelbash/KANBalance/blob/main/assets/KANbalance_GitHub.svg">
 
 This repository contains the KANBalance framework, as presented in the paper:
 
