@@ -11,6 +11,7 @@ This repository contains the KANBalance framework, as presented in the paper:
 
 ---
 
+
 ## Motivation
 Class imbalance is a common but critical challenge in machine learning, particularly in medical image analysis where minority-class samples (e.g., rare diseases or normal scans) are severely underrepresented. Standard techniques either oversample, undersample, or modify the loss to counteract skewed distributions. However, these approaches often fail to fundamentally enhance how models represent the subtle features of minority classes. KANBalance tackles this by combining (1) [Kolmogorov–Arnold Networks (KANs)](https://arxiv.org/abs/2404.19756), which replace fixed activations with univariate spline expansions on each edge—allowing the model to zoom in on narrow or complex feature intervals that characterize minority samples; (2) [Focal Loss](https://arxiv.org/abs/1708.02002), which amplifies the training signal for harder-to-classify (often minority) examples. By synergizing these two ideas, KANBalance reshapes feature representations to focus on minority classes, achieving robust performance gains over conventional resampling or cost-sensitive baselines. 
 
