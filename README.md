@@ -7,7 +7,7 @@ This repository contains the KANBalance framework, as presented in the paper:
 
 > **KANBalance: Kolmogorov-Arnold Network Mitigates Class Imbalance**  
 > *by Qezelbash-Chamak et al.*  
-> [[Paper Link]](https://github.com/JaberQezelbash/KANBalance)
+> [[Paper Link]](https://doi.org/10.1016/j.patcog.2025.112325)
 
 ---
 
@@ -129,9 +129,13 @@ If you use KANBalance in your work, please cite this paper as follows:
 ```bibtex
 @article{qezelbash2025KANBalance,
   title={KANBalance: Kolmogorov-Arnold Network Mitigates Class Imbalance},
-  author={Qezelbash-Chamak, Jaber},
+  author = {Jaber Qezelbash-Chamak and Karen Hicklin and Minhee Kim},
   journal={Pattern Recognition},
-  year={2025}
+  volume = {171},
+  pages = {112325},
+  year = {2026},
+  issn = {0031-3203},
+  doi = {https://doi.org/10.1016/j.patcog.2025.112325}
 }
 ```
 
